@@ -10,4 +10,3 @@ if (isNaN(age)) {
 } else {
     console.log("Thank you for your time")
 }
-...

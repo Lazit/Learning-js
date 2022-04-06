@@ -20,4 +20,4 @@ function divide(firstNumber, secondNumber) {
     console.log(firstNumber / secondNumber)
 }
 
-divide(60, 8);...
+divide(60, 8);
