@@ -6,4 +6,4 @@ const player = {
 };
 
 console.log(player.name);
-player.sayHello("MR");
+player.sayHello("MR");...

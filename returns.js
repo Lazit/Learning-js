@@ -28,3 +28,4 @@ console.log(krAge)
 
 //로 return값이 정해져 있다면
 //계산된 값이 얼마냐에 상관없이 return값이 출력됌.
+...
