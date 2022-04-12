@@ -11,4 +11,5 @@ function handleh2Click() {
     h2.style.color = newColor;
 }
 
-h2.addEventListener("click", handleh2Click)
+h2.addEventListener("click", handleh2Click) 
+
